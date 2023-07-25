@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @PongoArchive ---!>
-- 👀 I’m interested in Software Developing <!--- 
+- 👀 I’m a Software Developer <!--- 
